@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dariyabelokon.github.io/goit-js-hw-12/",
+  "homepage": "https://dariyabelokon.github.io/goit-js-hw-13/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-12/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-13/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DariyaBelokon/goit-js-hw-12"
+    "url": "git+https://github.com/DariyaBelokon/goit-js-hw-13"
   },
   "keywords": [],
   "author": "Dariya Belokon <vors.zp@gmail.com>",
